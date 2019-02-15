@@ -39,7 +39,7 @@ async def yes():
 	
 @bot.command(pass_context=True)
 async def botinfo():
-	await bot.say('Bot Created by MelMei he add the command to me.')
+	await bot.say('Bot Created by AM#2020 he add the command to me.')
 	
 @bot.command(pass_context=True)
 async def mentionev():
@@ -59,7 +59,7 @@ async def unafk():
 	
 @bot.command(pass_context=True)
 async def update():
-	await bot.say('**MEL MEI Bot Update to V 1.35')
+	await bot.say('**AM [Rich] Bot Update to V 1.35')
 
 @bot.command(pass_context=True)
 async def request():
@@ -90,7 +90,7 @@ async def clear(ctx,amount = 10):
 		await bot.say(str(amount) + ' messages were deleted so ya! ')
 
 	
-bot.run('NTQzNzE4ODQ5ODg4MTI0OTM4.D0F0iw.Ihd2Ia22Kys9E7S7kQk5ylhHAAw')
+bot.run('NTQ1OTE1OTUxNDcyOTY3Njgx.D0g-ZQ.vE46203HNQMmlgs1XoRGcACmnUs')
 
 
 
